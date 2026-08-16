@@ -59,3 +59,22 @@ Most tutorials show data structures with pre-built functions. This repo is the o
 
 ---
 
+### 📈 Roadmap
+
+- [x] Array operations
+- [x] Singly linked list
+- [ ] Doubly linked list
+- [ ] Stack (array + linked list based)
+- [ ] Queue (array + linked list based)
+- [ ] Binary search tree
+
+---
+
+### 📬 Contact
+
+<p align="center">
+  <a href="https://wa.me/918279630850"><img src="https://img.shields.io/badge/WhatsApp-000000?style=flat-square&logo=whatsapp&logoColor=00FF41" /></a>
+  <a href="https://github.com/MALIK25252007"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00FF41" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF41&height=80&section=footer" />
